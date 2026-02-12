@@ -1,12 +1,27 @@
-# Prodigy-Infotech-Task1
-This repository contains Task 1 (Caesar Cipher) developed using Python during my Cyber Security Internship at Prodigy InfoTech.
-# PRODIGY INFOTECH - Cyber Security Internship
+# 🔐 Caesar Cipher Encryption & Decryption Tool
 
-## Task 1: Caesar Cipher
+This is a simple Python project that performs text encryption and decryption using the Caesar Cipher algorithm.
 
-This Python program encrypts and decrypts text using Caesar Cipher algorithm.
+## 📌 What is Caesar Cipher?
+Caesar Cipher is one of the oldest encryption techniques. 
+It shifts each letter in the message by a fixed number of positions in the alphabet.
 
-Features:
-- Encrypt message
-- Decrypt message
-- User input based
+Example:
+Message: hello
+Shift: 3
+Encrypted: khoor
+
+## 🚀 Features
+- Encrypt text
+- Decrypt text
+- Supports both uppercase and lowercase letters
+- Keeps special characters unchanged
+
+## 🛠 Technologies Used
+- Python 3
+
+## ▶️ How to Run
+
+1. Install Python
+2. Open terminal
+3. Run the file:
